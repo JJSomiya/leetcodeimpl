@@ -10,3 +10,5 @@ leetcode 算法题实现
 4. Longest Common Prefix
 5. Valid Parentheses
 6. Merge Two Lists
+7. Remove Duplicates From Sorted Array
+8. Remove Element
